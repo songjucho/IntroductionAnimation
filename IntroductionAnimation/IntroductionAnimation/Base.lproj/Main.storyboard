@@ -27,6 +27,9 @@
                         <viewLayoutGuide key="safeArea" id="KV3-6n-lJb"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
+                    <connections>
+                        <outlet property="animatingLabel" destination="mfN-9B-fow" id="EuK-fW-8zZ"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
