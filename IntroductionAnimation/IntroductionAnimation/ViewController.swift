@@ -14,6 +14,11 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        animate()
+    }
+    
+    private func animate() {
+        
     }
 
 
